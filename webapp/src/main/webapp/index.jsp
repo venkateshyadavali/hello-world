@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome to DevOps World !!! </h1>
+<h2> Deploying onto tomcat through 'Deploy to container' plugin </h2>
+<h3> CI/CD </h3>
