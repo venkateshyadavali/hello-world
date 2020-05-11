@@ -15,7 +15,7 @@
 <div style='margin:0cm;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman";'>
     <ul style="margin-bottom:0cm;list-style-type: disc;margin-left:44px;">
         <li style='margin:0cm;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman";'><span style="font-family:Calibri;color:green;">Setup an Ansible Control server and the tomcat server as Ansible node.</span></li>
-        <li style='margin:0cm;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman";'><span style="font-family:Calibri;color:green;">Use &#39;publish over ssh&#39; plugin 123.</span></li>
+        <li style='margin:0cm;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman";'><span style="font-family:Calibri;color:green;">Use &#39;publish over ssh&#39; plugin.</span></li>
         <li style='margin:0cm;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman";'><br></li>
     </ul>
 </div>
